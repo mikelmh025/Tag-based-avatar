@@ -2,6 +2,6 @@
 
 Model training code, Human face annotation results, Cartoon assets images and annotations.
 
-[Link](https://drive.google.com/file/d/11XkCcuF_Zzku2mnURcJZx90o0Fn3ND15/view?usp=sharing)
+[Link](https://drive.google.com/file/d/1H8IvW91rbrX7GQhySb9-0-DCFbimUbsb/view?usp=sharing)
 
 
